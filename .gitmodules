@@ -19,3 +19,12 @@
 [submodule "bundle/summerfruit256"]
 	path = bundle/summerfruit256
 	url = https://github.com/vim-scripts/summerfruit256.vim
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
