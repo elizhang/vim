@@ -21,3 +21,4 @@ let g:ctrlp_working_path_mode = 'rw'
 let g:indent_guides_enable_on_vim_startup = 1
 let g:indent_guides_guide_size = 1
 let NERDTreeShowBookmarks=1
+autocmd vimenter * wincmd w
